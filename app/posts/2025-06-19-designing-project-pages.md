@@ -42,14 +42,14 @@ Users in the policy team, statutory consultees and the senior leadership team al
 ## What we already had
 The user needs were discovered by accident, through creating a page to document an advisory group for the planning applications project. The planning applications project covers multiple considerations that were being discovered. As a result, the page soon became overcrowded with competing content.
 
-![A portion of the original planning application page with sprawling content](https://design-history.ams3.digitaloceanspaces.com/fk96eftw6vhpkdhxydgcylzbsh1s)
+![A portion of the original planning application page with sprawling content](/designing-project-pages/01-planning-application-submissions-original-page.png)
 
 ## Improving the user journey through Google analytics
 The original page was published in isolation. When users got to the page **they spent less than 2 minutes there.** We can assume that this is not enough time to take in all the content. 
 
 In the new design the project page has subpages for detailed content. The flow is also embedded in the data design website. This allows the user to discover more content that they may be interested in.
 
-![A user flow that now links the Project page to related considerations and datasets](https://design-history.ams3.digitaloceanspaces.com/515hz9lhew702dfr74s364oo9ap8)
+![A user flow that now links the Project page to related considerations and datasets](/designing-project-pages/02-proposed-user-flow.png)
 
 
 ##  How to design a project page
@@ -73,7 +73,7 @@ The new project page has sub-pages. This is to provide more detail for certain u
 ## Next steps
 The first step is translating the current planning applications page into something that fits our template. This includes deciding what the 'key events' have been so far. Once we have the right content - we will update the page.
 
-![A figma screenshot showing an analysis of current content and how it can fit the new template.](https://design-history.ams3.digitaloceanspaces.com/jlfudk84lq4j0fxyh0yir6qffy9k)
+![A figma screenshot showing an analysis of current content and how it can fit the new template.](/designing-project-pages/03-translating-existing-content.png)
 
 Planning applications is our first project page, but we expect there to be many more. For the next project page, i.e. Local plans, we will use the template to document consistent information so its easy to understand for our users. 
 

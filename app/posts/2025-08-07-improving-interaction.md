@@ -40,11 +40,11 @@ During events, the team utilised the “tell a friend” method. Events were als
 
 To access a GitHub discussion, users would need to follow a numbered link to a GitHub channel. If a user did get there, we assumed that a large group would be put off by being on an unfamiliar platform.
 
-![A screenshot of a consideration page, the github link is displayed by a number rather than a description](https://design-history.ams3.digitaloceanspaces.com/cw7b8bxuwjl2mgahwzi3b0tlujab)
+![A screenshot of a consideration page, the github link is displayed by a number rather than a description](/improving-interaction/03-how-considerations-used-to-link-to-github-discussions.png)
 
 A get involved page was very difficult to find and was hidden in a link on an about page. 
 
-![A annotated screen showing a CTA within a page asking users to contribute to the data design process](https://design-history.ams3.digitaloceanspaces.com/sfahfoyhjr5xiaaqvidg9bf4r5j2)
+![A annotated screen showing a CTA within a page asking users to contribute to the data design process](/improving-interaction/02-the-discreet-user-journey-to-get-involved.png)
 
 There was no google analytics, so we couldn’t quantify whether users could find information. 
 
@@ -72,7 +72,7 @@ Statcon 1: “We mainly discuss with [Designing Data team member] to raise key i
 
 Statcon 2: “I find it really difficult to find digital contacts in MHCLG, we would love to engage more with MHCLG.” 
 
-![A screenshot showing 3 pages of how to contribute to the data design process](https://design-history.ams3.digitaloceanspaces.com/m13baajc0xqm3hdgtap5nmbi59so)
+![A screenshot showing 3 pages of how to contribute to the data design process](/improving-interaction/01-how-to-contribute-for-the-data-design-process.png)
 
 Usability - “I’m not going to read all that”. Users gave up when reading the live ‘how to contribute page’  
 
