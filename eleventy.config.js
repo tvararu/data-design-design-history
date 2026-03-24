@@ -23,7 +23,7 @@ export default function (eleventyConfig) {
     },
     url:
       process.env.GITHUB_ACTIONS &&
-      'https://x-govuk.org/govuk-design-history-template/'
+      'https://tvararu.github.io/data-design-design-history/'
   })
 
   // Passthrough
@@ -49,6 +49,6 @@ export default function (eleventyConfig) {
       layouts: '_layouts',
       includes: '_components'
     },
-    pathPrefix: process.env.GITHUB_ACTIONS && '/govuk-design-history-template/'
+    pathPrefix: process.env.GITHUB_ACTIONS && '/data-design-design-history/'
   }
 }

@@ -14,6 +14,10 @@ Posts live in `app/posts/` as `YYYY-MM-DD-slug.md` with YAML front matter (title
 
 Generate a post from a folder of images: `node scripts/generate.js slug`
 
+## Forking / changing GitHub org
+
+This repo was forked from [x-govuk/govuk-design-history-template](https://github.com/x-govuk/govuk-design-history-template). If you move it to a different GitHub org or rename it, update `url` and `pathPrefix` in `eleventy.config.js` to match the new GitHub Pages URL.
+
 ## Tech stack
 
 - Eleventy 3 static site generator with Nunjucks templates
