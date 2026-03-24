@@ -7,7 +7,7 @@ export default function (eleventyConfig) {
   // https://govuk-eleventy-plugin.x-govuk.org/get-started/options/
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     header: {
-      productName: 'Design History',
+      productName: 'Design planning and housing data',
       search: {
         indexPath: '/search-index.json',
         sitemapPath: '/sitemap'

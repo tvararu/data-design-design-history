@@ -1,8 +1,8 @@
 ---
 homepage: true
 layout: product
-title: A design history for your GOV.UK service
-description: A permanent record of how your service has developed over time.
+title: Design planning and housing data design history
+description: Helping identify and design data for planning.data.gov.uk
 pagination:
   data: collections.all
   reverse: true
